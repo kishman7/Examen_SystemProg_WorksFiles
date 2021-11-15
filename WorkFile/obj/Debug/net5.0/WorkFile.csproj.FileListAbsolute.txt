@@ -1,0 +1,12 @@
+F:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog()_Network Prog (AsyncSocket)\Examen_SystemProg\WorkFile\bin\Debug\net5.0\WorkFile.deps.json
+F:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog()_Network Prog (AsyncSocket)\Examen_SystemProg\WorkFile\bin\Debug\net5.0\WorkFile.dll
+F:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog()_Network Prog (AsyncSocket)\Examen_SystemProg\WorkFile\bin\Debug\net5.0\ref\WorkFile.dll
+F:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog()_Network Prog (AsyncSocket)\Examen_SystemProg\WorkFile\bin\Debug\net5.0\WorkFile.pdb
+F:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog()_Network Prog (AsyncSocket)\Examen_SystemProg\WorkFile\obj\Debug\net5.0\WorkFile.GeneratedMSBuildEditorConfig.editorconfig
+F:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog()_Network Prog (AsyncSocket)\Examen_SystemProg\WorkFile\obj\Debug\net5.0\WorkFile.AssemblyInfoInputs.cache
+F:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog()_Network Prog (AsyncSocket)\Examen_SystemProg\WorkFile\obj\Debug\net5.0\WorkFile.AssemblyInfo.cs
+F:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog()_Network Prog (AsyncSocket)\Examen_SystemProg\WorkFile\obj\Debug\net5.0\WorkFile.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog()_Network Prog (AsyncSocket)\Examen_SystemProg\WorkFile\obj\Debug\net5.0\WorkFile.dll
+F:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog()_Network Prog (AsyncSocket)\Examen_SystemProg\WorkFile\obj\Debug\net5.0\ref\WorkFile.dll
+F:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog()_Network Prog (AsyncSocket)\Examen_SystemProg\WorkFile\obj\Debug\net5.0\WorkFile.pdb
+F:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog()_Network Prog (AsyncSocket)\Examen_SystemProg\WorkFile\obj\Debug\net5.0\WorkFile.csprojAssemblyReference.cache
